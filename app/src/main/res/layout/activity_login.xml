@@ -50,7 +50,7 @@
             app:roundedCorners="true" />
 
         <com.beardedhen.androidbootstrap.BootstrapButton
-            android:id="@+id/edtLogin"
+            android:id="@+id/btnLogin"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Login"
@@ -63,7 +63,7 @@
             app:roundedCorners="true" />
 
         <com.beardedhen.androidbootstrap.BootstrapButton
-            android:id="@+id/edtCancel"
+            android:id="@+id/btnCancel"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Cancelar"
